@@ -66,12 +66,12 @@ The output consist of a multi-polygon vector layer (either shapefile or GeoJSON)
 - prob: predicted probability
 
 ## Available models
-| model_name  | description | Classes |
+| model_name  | description | Classes | 
 | ------------- | ------------- | ------------- |
 | yolov5x_damage_img640_healthy_broken_dead.pt | model used in the original snowbreak detection paper | healthy, broken-top, dead|
-| yolov5x_damage_im1280_batch2_healthy_broken_dead_recentDead.pt* | retrained model with more bark-beatle affected areas | healthy, broken-top, dead, recently dead|
+| yolov5x_damage_im1280_batch2_healthy_broken_dead_recentDead.pt | retrained model with more bark-beatle affected areas | healthy, broken-top, dead, recently dead|
 
-* suggested model
+* * suggested model
 
 ## How to 🏃
 
