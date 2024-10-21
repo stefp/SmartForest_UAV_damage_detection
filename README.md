@@ -1,5 +1,5 @@
 # Background
-This repository includes the methods developed and described in [Puliti and Astrup (2022)](https://authors.elsevier.com/authorform/landingpage/selection.do?aid=102946&jid=JAG&md5key=d401279a38fa3ae5f3e66d4eeb9dc8fe&lang=English). 
+This repository includes the methods developed and described in [Puliti and Astrup (2022)](https://www.sciencedirect.com/science/article/pii/S1569843222001431). 
 
 ![image](https://user-images.githubusercontent.com/5663984/182541232-ea6de486-c3be-402f-b2a9-1778633e828b.png)
 
