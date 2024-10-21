@@ -1,6 +1,8 @@
 # Background
 This repository includes the methods developed and described in [Puliti and Astrup (2022)](https://www.sciencedirect.com/science/article/pii/S1569843222001431). 
 
+Please note that this is a repository developed two years ago and it might require some fixing :)
+
 ![image](https://user-images.githubusercontent.com/5663984/182541232-ea6de486-c3be-402f-b2a9-1778633e828b.png)
 
 The methods heavily relies on the [YOLOv5 repo](https://github.com/ultralytics/yolov5) by Ultralytics for training the object detector and for inference. 
