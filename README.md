@@ -64,10 +64,10 @@ The output is a multi-polygon vector layer (either shapefile or GeoJSON) coverin
 ## Available models
 | model_name  | description | Classes | 
 | ------------- | ------------- | ------------- |
-| yolov5x_damage_img640_healthy_broken_dead.pt | model used in the original snowbreak detection paper | healthy, broken-top, dead|
-| yolov5x_damage_im1280_batch2_healthy_broken_dead_recentDead.pt | retrained model with more bark-beatle affected areas | healthy, broken-top, dead, recently dead|
+| [yolov5x_damage_img640_healthy_broken_dead.pt](https://drive.google.com/file/d/1X5VCoClRe8pqSPQwoUpVKYM9psLAlVM4/view?usp=drive_link) | model used in the original snowbreak detection paper | healthy, broken-top, dead|
+| [yolov5x_damage_im1280_batch2_healthy_broken_dead_recentDead.pt](https://drive.google.com/file/d/15zVwPJy1Qu9fLcx0yBtAb6wjXE1qOHXj/view?usp=drive_link) | retrained model with more bark-beatle affected areas | healthy, broken-top, dead, recently dead|
 
-* suggested model
+* We suggested using the second model as it is the latest version and it has more training data on dead-tree detection (Bark-beetles).
 
 ## How to run 🏃
 You can follow the example reported in 'ObjectDetection_damage.ipynb'
