@@ -74,6 +74,10 @@ The output is a multi-polygon vector layer (either shapefile or GeoJSON) coverin
 ## How to run 🏃
 You can follow the example reported in 'ObjectDetection_damage.ipynb'
 
+## ⚖️ Licensing
+AGPL-3.0 License: This [OSI-approved](https://opensource.org/license) open-source license is ideal for students and enthusiasts, promoting open collaboration and knowledge sharing. See the [LICENSE](https://github.com/stefp/SmartForest_UAV_damage_detection/blob/main/LICENSE.txt) file for more details. 
+
+
 
 
 
